@@ -1,5 +1,5 @@
 #!/usr/bin/ruby
-# Usage: ./run.rb < input
+# Usage: ./2.rb < input
 
 log = []
 lines = []
